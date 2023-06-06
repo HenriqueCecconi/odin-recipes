@@ -1,3 +1,3 @@
 # odin-recipies
 
-A basic website of recipies made to learn and understand HTML
+A simple website with awesome and delicious coffee recipes! This is a simple and quick project so I could learn and practice HTML.
