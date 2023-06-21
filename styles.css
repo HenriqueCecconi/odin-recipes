@@ -1,0 +1,25 @@
+*{
+  font-family: Verdana, Tahoma, sans-serif;
+}
+
+h1, h2, h3{
+  font-weight: 300;
+}
+
+body {
+  text-align: center;
+}
+
+ul li {
+  list-style: inside;
+}
+
+ol li {
+  list-style: decimal inside;
+}
+
+img {
+  width: 800px;
+  height: 450px;
+  object-fit: cover;
+}
